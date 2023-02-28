@@ -1,4 +1,4 @@
-# The exploration of Modern Slavery
+# The Exploration of Modern Slavery
 ---
 
 The exploration of modern slavery poses a significant and urgent challenge that necessitates the use of advanced analytical methods and state-of-the-art technologies. As such, the examination of modern slavery has been designated as the second assignment in the Analytics Practicum I (Python) course, which forms an integral part of the MSc in Business Analytics program offered by the Department of Management Science and Technology at the Athens University of Economics and Business.
