@@ -1,4 +1,3 @@
-# Exploring-_the_Drivers_of_Modern_Slavery
 # The exploration of Modern Slavery
 ---
 
@@ -19,9 +18,6 @@ While the current analysis will be done on [Jupyter Notebook](http://jupyter.org
 ---
 
 > Dimitrios Matsanganis <br />
-> Academic ID: f2822212 <br />
-> MSc Business Analytics 2022-2023 FT <br />
-> Athens University of Economics and Business <br />
 > dmatsanganis@gmail.com, dim.matsanganis@aueb.gr
 
 ---
@@ -50,6 +46,8 @@ These libraries are presented below:
 
 **Note!**
 The aforementioned libraries, in order to function correctly, must be installed in Python **locally before being imported**.
+
+Some notes for the dataset:
 
 * The dataset comprises 70 rows and 120 columns, with the first two columns, namely `Data_year` and `Country`, serving as index columns for each observation. These index columns determine the country-level and year-group (2016 or 2018) to which each observation corresponds. The dataset also includes a `Region` column, represented by other columns used as dummy variables, that categorizes each country according to its broad geographical area.
 
