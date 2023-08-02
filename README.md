@@ -164,3 +164,11 @@ Regarding the 2018 dataset the best MAE origins from the reduced 35-variable dat
 From the aforementioned we can summarize that the differences of MAE scores can be considered big only at the 2016 data model and not on the 2018 data model. One assumption can be made that since the 2018 dataset contains 45 observations/countries and 2016 dataset only 25, the size of the datasets can be the factor for these different results regarding the models' MAE.
 
 Finally, the best model of our research is the Random Forest one for the 2016 data with 0.31, followed by the Random Forest of the full model with 0.315.
+
+### Contributors
+
+- [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
